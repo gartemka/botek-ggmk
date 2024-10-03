@@ -1,2 +1,2 @@
 # botek-ggmk
-specialy for polyakova
+specialy for ggmk.by
